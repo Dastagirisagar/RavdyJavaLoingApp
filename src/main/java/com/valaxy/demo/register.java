@@ -18,10 +18,10 @@ public class register {
 	@Value("${spring.datasource.url}")
 	private String url;
 
-	@Value("${spring.datasource.peru}")
+	@Value("${spring.datasource.username}")
 	private String DBusername;
 
-	@Value("${spring.datasource.oooru}")
+	@Value("${spring.datasource.password}")
 	private String DBpassword;
 	
 	
