@@ -21,7 +21,7 @@ public class register {
 	@Value("${spring.datasource.peru}")
 	private String DBusername;
 
-	@Value("${spring.datasource.ooru}")
+	@Value("${spring.datasource.oooru}")
 	private String DBpassword;
 	
 	
